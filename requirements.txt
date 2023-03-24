@@ -1,10 +1,10 @@
 accelerate
 fire
-opencv-python-headless
+# eopencv-python-headless
 pillow
 scikit-image
 scipy
-torch
-torchvision
+# torch
+# torchvision
 tqdm
 pymatting
